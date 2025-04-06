@@ -1,0 +1,27 @@
+# Generated files
+/*/target/
+**/*.rs.bk
+
+# Debug files
+*.pdb
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+#rust-analyzer
+*/Cargo.lock
